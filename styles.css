@@ -10,15 +10,15 @@ body{
 }
 
 .diceBox{
-    display: inline;
+    display: inline-block;
     width: 100%;
     height: 100%;
-
 }
 
 .dice{
-    width: 40%;
-    height: 40%;
+    display: inline-block;
+    width: 15rem;
+    height: 100%;
     background-color: #a61c12;
 }
 
